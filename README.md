@@ -1,4 +1,4 @@
 am-space
 ========
 
-Spacing utilities for am-css
+Utility classes to adjust spacing between components
