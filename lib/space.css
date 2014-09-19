@@ -1,9 +1,9 @@
 
 :root {
-  --u-spaceSmall    : var(--s-3);
-  --u-spaceMedium   : var(--s0);
-  --u-spaceLarge    : var(--s3);
-  --u-spaceGigantic : var(--s6);
+  --u-spaceSmall    : -1rem;
+  --u-spaceMedium   : 1rem;
+  --u-spaceLarge    : 1.5rem;
+  --u-spaceGigantic : 2.4rem;
 }
 
 /* Padding */
