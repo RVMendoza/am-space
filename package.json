@@ -1,0 +1,29 @@
+{
+  "name": "am-space",
+  "version": "0.1.0",
+  "description": "Utility classes to adjust spacing between components",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RVMendoza/am-space.git"
+  },
+  "keywords": [
+    "am-css",
+    "suit-css",
+    "arrange",
+    "component",
+    "utility",
+    "space",
+    "spacing",
+    "amcss"
+  ],
+  "author": "RV Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVMendoza/am-space/issues"
+  },
+  "homepage": "https://github.com/RVMendoza/am-space"
+}
