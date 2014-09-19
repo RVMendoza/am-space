@@ -92,4 +92,4 @@
 [data-am-margin~="right"][data-am-margin~="small"]    { margin-right : var(--u-spaceSmall) !important; }
 [data-am-margin~="right"][data-am-margin~="medium"]   { margin-right : var(--u-spaceMedium) !important; }
 [data-am-margin~="right"][data-am-margin~="large"]    { margin-right : var(--u-spaceLarge) !important; }
-[data-am-margin~="right"][data-am-margin~="g
+[data-am-margin~="right"][data-am-margin~="gigantic"] { margin-right : var(--u-spaceGigantic) !important; }
